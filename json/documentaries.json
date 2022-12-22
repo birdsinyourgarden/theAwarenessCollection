@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDcyZDdiYzMtM2MzYi00MzE2LWFhNmMtNmE2ZTVhYjAxOTc4XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg",
+        "title": "My Octopus Teacher",
+        "year": "2020",
+        "length": "1h 25m",
+        "director": "Pippa Ehrlich, James Reed",
+        "synopsis": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest, learning as the animal shares the mysteries of her world."
+    },
+    {
+        "id": 2,
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FkMjE0ZDgtNWQxZS00NmZiLWEwMDYtMjE5M2RmOTZiODk5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+        "title": "David Attenborough: A Life on Our Planet",
+        "year": "2020",
+        "length": "1h 23m",
+        "director": "Alastair Fothergill, Jonathan Hughes, Keith Scholey",
+        "synopsis": "David Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. This unique feature documentary is his witness statement."
+    },
+    {
+        "id": 3,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDAyYjcyMGMtMDRjMS00YzU5LTk4MjctYzUwY2Y1NWJiZWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "title": "Dancing with the Birds",
+        "year": "2019",
+        "length": "52m",
+        "director": "Huw Cordey",
+        "synopsis": "From ruffling their majestic feathers to nailing im-peck-able courtship routines, birds in paradise flaunt their best moves in hopes of landing a mate."
+    },
+    {
+        "id": 4,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTFlYTk5MGQtZDIyYS00ZGVmLWFiOGEtMDM1ZDRjMzFlNTQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "title": "Jane",
+        "year": "2017",
+        "length": "90 min",
+        "director": "Brett Morgen",
+        "synopsis": "The life and work of the renowned primatology scientist, Jane Goodall, especially on her research about chimpanzees."
+    },
+    {
+        "id": 5,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
+        "title": "The Game Changers",
+        "year": "2018",
+        "length": "1h 26min",
+        "director": "Louie Psihoyos",
+        "synopsis": "A UFC fighter's world is turned upside down when he discovers an elite group of world-renowned athletes and scientists who prove that everything he had been taught about protein was a lie."
+    },
+    {
+        "id": 6,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDMzOTQzN2ItOWFjNy00NWY0LWIxNGEtZTdlMDQ1MDVkOTFlXkEyXkFqcGdeQXVyMjc0NzkzNA@@._V1_.jpg",
+        "title": "The Animal People",
+        "year": "2019",
+        "length": "1h 37m",
+        "director": "Denis Hennelly, Casey Suchan",
+        "synopsis": "A chilling portrait of what happens when activism rattles the institutions of power."
+    },
+    {
+        "id": 7,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZTk1ZDgtNTFlOC00MGRjLWFiZmQtYmI0Y2JjMmI5YTBkXkEyXkFqcGdeQXVyNzI5MjI4MTc@._V1_.jpg",
+        "title": "What the Health",
+        "year": "2017",
+        "length": "1h 37min",
+        "director": "Kip Andersen, Keegan Kuhn",
+        "synopsis": "An intrepid filmmaker on a journey of discovery as he uncovers possibly the largest health secret of our time and the collusion between industry, government, pharmaceutical and health organizations keeping this information from us."
+    },
+    {
+        "id": 8,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NzAyMzk1MF5BMl5BanBnXkFtZTgwODE3NjQyNTE@._V1_.jpg",
+        "title": "Cowspiracy: The Sustainability Secret",
+        "year": "2014",
+        "length": "1h 30min",
+        "director": "Kip Andersen, Keegan Kuhn",
+        "synopsis": "Follow the shocking, yet humorous, journey of an aspiring environmentalist, as he daringly seeks to find the real solution to the most pressing environmental issues and true path to sustainability."
+    },
+    {
+        "id": 9,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjA0MmZlNTctMzQyNS00MDQyLWFkNGItZDRiMGMxYzg2MDIyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+        "title": "Seaspiracy",
+        "year": "2021",
+        "length": "1h 29m",
+        "director": "Kip Andersen",
+        "synopsis": "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species - and uncovers alarming global corruption."
+    },
+    {
+        "id": 10,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGI4YTNhZGYtZGZhMi00MDVmLWI3MzMtODE1ZjcyMzdmZDA3XkEyXkFqcGdeQXVyNjMxMDgyNzQ@._V1_.jpg",
+        "title": "Food Choices",
+        "year": "2016",
+        "length": "1h 31m",
+        "director": "Michal Siewierski",
+        "synopsis": "This new ground-breaking documentary explores the impact that food choices have on people's health, the health of our planet and on the lives of other living species. And also discusses several misconceptions about food and diet."
+    },
+    {
+        "id": 11,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGNhYTA1ODMtY2M5Yy00MTYwLWFlZmEtNDM4M2I4ZTI2ZmVmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "title": "Food, Inc.",
+        "year": "2008",
+        "length": "1h 34m",
+        "director": "Robert Kenner",
+        "synopsis": "An unflattering look inside America's corporate controlled food industry."
+    },
+    {
+        "id": 12,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1_.jpg",
+        "title": "Blackfish",
+        "year": "2013",
+        "length": "1h 23m",
+        "director": "Gabriela Cowperthwaite",
+        "synopsis": "A documentary following the controversial captivity of killer whales, and its dangers for both humans and whales."
+    },
+    {
+        "id": 13,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTIyNDY1Ml5BMl5BanBnXkFtZTcwMjIxNzY2NA@@._V1_.jpg",
+        "title": "Forks Over Knives",
+        "year": "2011",
+        "length": "1h 30min",
+        "director": "Lee Fulkerson",
+        "synopsis": "Examines the profound claim that most, if not all, of the degenerative diseases that afflict us can be controlled, or even reversed, by rejecting our present menu of animal-based and processed foods."
+    },
+    {
+        "id": 14,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzM3NTRhMTctNTE2MS00YjJmLWE2ZmMtMmY3MWI0ODExMTMzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "title": "The Cove",
+        "year": "2009",
+        "length": "1h 32m",
+        "director": "Louie Psihoyos",
+        "synopsis": "Using state-of-the-art equipment, a group of activists, led by renowned dolphin trainer Ric O'Barry, infiltrate a cove near Taijii, Japan to expose both a shocking instance of animal abuse and a serious threat to human health."
+    },
+    {
+        "id": 15,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMDg4NTcxN15BMl5BanBnXkFtZTcwODQ3MTYwNw@@._V1_.jpg",
+        "title": "Vegucated",
+        "year": "2011",
+        "length": "1h 16m",
+        "director": "Marisa Miller Wolfson",
+        "synopsis": "Vegucated is a guerrilla-style documentary that follows three meat- and cheese-loving New Yorkers who agree to adopt a vegan diet for six weeks and learn what it's all about."
+    },
+    {
+        "id": 16,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk2ODI4MDY2MV5BMl5BanBnXkFtZTcwMDUyNTIzMQ@@._V1_.jpg",
+        "title": "Earthlings",
+        "year": "2005",
+        "length": "1h 35m",
+        "director": "Shaun Monson",
+        "synopsis": "Using hidden cameras and never-before-seen footage, Earthlings chronicles the day-to-day practices of the largest industries in the world, all of which rely entirely on animals for profit."
+    }
+]

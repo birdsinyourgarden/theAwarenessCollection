@@ -1,0 +1,58 @@
+body {
+    font-family: "Montserrat" !important;
+}
+
+/* Header */
+
+.mainHeader {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(161, 211, 161);
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+
+.siteIdentity img {
+    width: 700px;
+    border-radius: 5px;
+}
+
+.quote {
+    max-width: 750px;
+}
+
+.cardsDocumentaries {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card-body {
+    background-color: rgb(213, 231, 225);
+    margin: 5;
+}
+
+/* Footer */
+
+.mainFooter {
+    background-color: rgb(161, 211, 161);
+}
+
+.footerInfo {
+    display: inline;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.footerSocialMedia a {
+    padding: 0 1rem;
+}
+
+.footerSocialMedia img {
+    width: 35px;
+}
