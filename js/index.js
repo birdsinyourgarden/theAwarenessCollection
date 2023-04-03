@@ -1,25 +1,25 @@
 const requestURL = '../json/documentaries.json';
 
-async function fetchDocumentariesJson(){
+async function fetchMoviesJson(){
     const response = await fetch(requestURL);
-    const documentaries = await response.json();
-    return documentaries;
+    const movies = await response.json();
+    return movies;
 }
 
-fetchDocumentariesJson().then(documentaries =>{
-    for (let index = 0; index < documentaries.length; index++)
+fetchMoviesJson().then(movies =>{
+    for (let index = 0; index < movies.documentaries.length; index++)
     {
-        const documentariesSection = document.getElementById('documentarySection');
+        const moviesSection = document.getElementById('movieSection');
         
-        let id = documentaries[index].id;
-        let poster = documentaries[index].poster;
-        let title = documentaries[index].title;
-        let year = documentaries[index].year;
-        let length = documentaries[index].length;
-        let director = documentaries[index].director;
-        let synopsis = documentaries[index].synopsis;
-        
-        documentariesSection.innerHTML += `
+        let id = movies.documentaries[index].id;
+        let poster = movies.documentaries[index].poster;
+        let title = movies.documentaries[index].title;
+        let year = movies.documentaries[index].year;
+        let length = movies.documentaries[index].length;
+        let director = movies.documentaries[index].director;
+        let synopsis = movies.documentaries[index].synopsis;
+
+        moviesSection.innerHTML += `
             <div class="card mb-4" style="width: 18rem;">
                 <img src="${poster}" class="card-img-top" alt="documentary poster">
                 <div class="card-body">
