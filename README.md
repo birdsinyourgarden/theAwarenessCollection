@@ -15,6 +15,14 @@ Personal project in which I have developed the Frontend of a website about docum
 
 HTML5, CSS3, JavaScript and Bootstrap library.
 
+# How to install the project 👩‍💻
+
+1. Clone the project: git clone https://github.com/birdsinyourgarden/theAwarenessCollection.git
+2. Go to the project directory: cd theAwarenessCollection
+3. Install dependencies: npm i
+4. Go to the json directory: cd json
+5. Start the server: json-server --watch documentaries.json
+
 # Next steps 🍃
 
 Adding subcategories, pagination, search and more data in general.
